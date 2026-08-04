@@ -35,4 +35,12 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
