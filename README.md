@@ -20,4 +20,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
