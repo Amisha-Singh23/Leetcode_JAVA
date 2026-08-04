@@ -12,6 +12,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
