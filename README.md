@@ -11,6 +11,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
@@ -36,6 +37,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
