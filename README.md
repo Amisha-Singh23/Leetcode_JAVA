@@ -40,6 +40,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Sorting
@@ -59,10 +60,15 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
