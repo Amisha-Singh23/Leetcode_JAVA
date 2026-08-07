@@ -53,6 +53,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
