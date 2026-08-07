@@ -45,6 +45,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -69,6 +70,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
