@@ -21,6 +21,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
@@ -40,6 +41,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
+| [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,4 +98,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
