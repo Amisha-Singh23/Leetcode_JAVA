@@ -13,6 +13,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -98,6 +99,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
