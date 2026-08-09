@@ -68,6 +68,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
