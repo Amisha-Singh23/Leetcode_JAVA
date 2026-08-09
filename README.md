@@ -19,6 +19,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
