@@ -24,6 +24,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -54,6 +55,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
@@ -115,6 +117,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -129,5 +132,6 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
