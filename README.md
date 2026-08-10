@@ -37,6 +37,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
