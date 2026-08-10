@@ -54,6 +54,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0263-ugly-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -154,4 +156,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
