@@ -49,6 +49,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
