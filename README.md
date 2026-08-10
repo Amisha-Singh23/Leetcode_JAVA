@@ -47,6 +47,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0263-ugly-number/) | Easy |
@@ -144,4 +145,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
