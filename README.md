@@ -58,6 +58,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0441-arranging-coins/) | Easy |
+| [0507-perfect-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
