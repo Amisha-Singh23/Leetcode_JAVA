@@ -103,6 +103,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -171,4 +173,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
