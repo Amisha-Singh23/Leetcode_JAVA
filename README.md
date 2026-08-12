@@ -106,6 +106,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
+| [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
