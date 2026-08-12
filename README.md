@@ -160,6 +160,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -168,6 +169,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
