@@ -22,6 +22,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -69,6 +70,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
