@@ -66,6 +66,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
