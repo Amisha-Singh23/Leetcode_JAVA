@@ -67,6 +67,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0598-range-addition-ii/) | Easy |
@@ -121,6 +122,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -195,6 +197,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
