@@ -72,6 +72,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0908-smallest-range-i/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -141,6 +142,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1544-make-the-string-great](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -227,4 +229,12 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
