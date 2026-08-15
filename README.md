@@ -122,6 +122,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -137,6 +138,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
@@ -216,6 +218,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -242,4 +245,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
