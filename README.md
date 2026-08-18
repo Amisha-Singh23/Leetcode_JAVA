@@ -81,6 +81,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1323-maximum-69-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1323-maximum-69-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1323-maximum-69-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1323-maximum-69-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
