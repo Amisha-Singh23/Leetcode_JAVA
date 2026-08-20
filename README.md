@@ -125,6 +125,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0143-reorder-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -139,6 +140,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +259,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
