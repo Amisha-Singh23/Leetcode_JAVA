@@ -22,6 +22,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0598-range-addition-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0908-smallest-range-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
@@ -41,6 +42,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0206-reverse-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,4 +271,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
