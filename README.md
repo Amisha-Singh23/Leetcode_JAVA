@@ -85,6 +85,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1323-maximum-69-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1323-maximum-69-number/) | Easy |
@@ -216,6 +217,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0234-palindrome-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
