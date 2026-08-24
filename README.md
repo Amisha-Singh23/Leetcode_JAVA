@@ -31,6 +31,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
@@ -138,6 +139,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -149,6 +151,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +286,12 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
