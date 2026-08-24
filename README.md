@@ -91,6 +91,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1323-maximum-69-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1323-maximum-69-number/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +301,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
