@@ -230,6 +230,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
