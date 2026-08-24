@@ -115,6 +115,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
@@ -144,6 +145,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1544-make-the-string-great](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
