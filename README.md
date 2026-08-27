@@ -175,6 +175,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -305,4 +306,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 <!---LeetCode Topics End-->
