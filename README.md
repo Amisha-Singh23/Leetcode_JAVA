@@ -38,6 +38,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -65,6 +66,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -158,6 +160,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
