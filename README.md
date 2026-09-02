@@ -22,6 +22,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0598-range-addition-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0908-smallest-range-i/) | Easy |
@@ -142,6 +143,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0445-add-two-numbers-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -247,6 +249,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3174-clear-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
