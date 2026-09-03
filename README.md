@@ -70,6 +70,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0007-reverse-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
@@ -165,6 +166,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0344-reverse-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -244,11 +246,13 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
