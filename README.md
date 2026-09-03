@@ -14,6 +14,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0283-move-zeroes/) | Easy |
@@ -243,6 +244,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
+| [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
