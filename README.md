@@ -196,6 +196,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
+| [0338-counting-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -252,6 +253,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
