@@ -63,6 +63,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0190-reverse-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0190-reverse-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0029-divide-two-integers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0190-reverse-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
