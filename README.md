@@ -260,6 +260,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0342-power-of-four](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0476-number-complement/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
