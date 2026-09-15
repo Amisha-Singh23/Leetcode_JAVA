@@ -150,6 +150,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -181,6 +182,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -273,6 +275,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
