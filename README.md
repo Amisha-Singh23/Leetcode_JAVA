@@ -154,6 +154,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -287,10 +288,12 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +351,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->
