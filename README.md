@@ -355,4 +355,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
