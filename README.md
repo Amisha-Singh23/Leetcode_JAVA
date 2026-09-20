@@ -37,6 +37,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Cartesian Tree
 | Problem Name | Difficulty |
