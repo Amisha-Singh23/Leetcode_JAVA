@@ -27,6 +27,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0682-baseball-game](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0908-smallest-range-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0908-smallest-range-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -49,6 +50,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Cartesian Tree
 | Problem Name | Difficulty |
