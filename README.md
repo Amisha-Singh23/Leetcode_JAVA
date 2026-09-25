@@ -35,6 +35,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -52,6 +53,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +367,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
