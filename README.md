@@ -17,6 +17,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0136-single-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -46,6 +47,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0001-two-sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -70,6 +72,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -138,6 +141,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
@@ -370,5 +374,10 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
