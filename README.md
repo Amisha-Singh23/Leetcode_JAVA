@@ -32,6 +32,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0908-smallest-range-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0908-smallest-range-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1089-duplicate-zeros/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -57,6 +58,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
