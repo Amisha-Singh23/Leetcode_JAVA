@@ -20,6 +20,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -52,6 +53,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
@@ -79,6 +81,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -147,6 +150,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
@@ -380,9 +384,22 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
