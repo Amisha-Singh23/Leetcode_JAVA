@@ -20,6 +20,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0169-majority-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -186,6 +187,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [1472-design-browser-history](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1472-design-browser-history/) | Medium |
 ## String
@@ -402,4 +404,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
