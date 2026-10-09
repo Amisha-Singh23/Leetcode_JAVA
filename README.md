@@ -25,6 +25,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0349-intersection-of-two-arrays](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0500-keyboard-row/) | Easy |
 | [0598-range-addition-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -59,6 +60,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0500-keyboard-row/) | Easy |
 | [0705-design-hashset](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -203,6 +205,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | [0392-is-subsequence](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0415-add-strings/) | Easy |
+| [0500-keyboard-row](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0500-keyboard-row/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
