@@ -123,6 +123,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0027-remove-element/) | Easy |
@@ -195,6 +196,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0067-add-binary/) | Easy |
@@ -226,6 +228,7 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0338-counting-bits/) | Easy |
@@ -411,4 +414,8 @@ My Java LeetCode journey—consistent problem solving, optimized solutions, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amisha-Singh23/Leetcode_JAVA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
